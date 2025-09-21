@@ -96,7 +96,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
   "careerAspirations": "Work in AI/ML"
 }
 ```
-=======
+
 # Career Skills Advisor AI Backend
 
 ## Overview
@@ -106,7 +106,6 @@ The Career Skills Advisor AI platform is designed to assist Indian students in m
 - User registration and profile management
 - AI-driven career recommendations based on user input
 - Skills assessment and feedback
-=======
 # Career Skills Advisor AI Frontend
 
 ## Overview
@@ -117,7 +116,6 @@ The Career Skills Advisor AI platform is designed to assist Indian students in m
 - Dashboard displaying personalized career recommendations.
 - Skills assessment tool to evaluate user skills.
 - Profile page for users to view and manage their information.
->>>>>>> ec03ca730b4fa6b3a5ad6bd34a5910d10e2d8569
 
 ## Getting Started
 
