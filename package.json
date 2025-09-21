@@ -1,6 +1,7 @@
 {
   "name": "career-skills-advisor-ai",
   "version": "1.0.0",
+<<<<<<< HEAD
   "description": "A personalized career and skills advisor AI platform for Indian students.",
   "main": "src/app.js",
   "scripts": {
@@ -19,4 +20,37 @@
   },
   "author": "Your Name",
   "license": "ISC"
+=======
+  "private": true,
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "4.0.3",
+    "axios": "^0.21.1",
+    "react-router-dom": "^5.2.0"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+>>>>>>> ec03ca730b4fa6b3a5ad6bd34a5910d10e2d8569
 }
